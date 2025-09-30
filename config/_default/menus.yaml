@@ -1,0 +1,70 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 7317e966-c286-7ada-19ec-040eb36eae6c
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b2b5d32e-3add-2c5a-a0ac-8e02d4bd077c
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 6000b1af-cb5b-372c-3189-1bdbcc47a489
+  name: Developing the Project Assignment
+  pageRef: /pages/instructor-insights/developing-the-project-assignment
+  parent: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
+  weight: 40
+- identifier: 7ce52b5e-4939-7782-7747-84fb9c5eb9ca
+  name: Guiding Students Through Each Phase of the Course
+  pageRef: /pages/instructor-insights/guiding-students-through-each-phase-of-the-course
+  parent: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
+  weight: 50
+- identifier: cec37c2f-0ed4-584e-28d6-1c6630ff78e9
+  name: Tailoring the Course to Students' Needs
+  pageRef: /pages/instructor-insights/tailoring-the-course-to-students-needs
+  parent: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
+  weight: 60
+- identifier: b830ab64-2e27-3513-cb30-a2f98c366c75
+  name: Teaching Students to Be Engineers
+  pageRef: /pages/instructor-insights/teaching-students-to-be-engineers
+  parent: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
+  weight: 70
+- identifier: af43da93-2019-bbd9-1377-1168fef547a5
+  name: Teaching Communication
+  pageRef: /pages/instructor-insights/teaching-communication
+  parent: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
+  weight: 80
+- identifier: 9e145b33-d473-f70e-ec45-5c73fc291a97
+  name: Making Content Tangible
+  pageRef: /pages/instructor-insights/making-content-tangible
+  parent: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
+  weight: 90
+- identifier: 419d3fd0-ab12-5a58-8ea5-8e93bccacff6
+  name: Readings
+  pageRef: /pages/readings
+  weight: 100
+- identifier: 9117e4ec-27cd-11cf-dead-0199547b42a6
+  name: Lecture Videos and Class Notes
+  pageRef: /video_galleries/videos-class-notes/
+  weight: 110
+- identifier: 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886
+  name: Announcements
+  pageRef: /video_galleries/videos-class-notes/announcements
+  parent: 9117e4ec-27cd-11cf-dead-0199547b42a6
+  weight: 120
+- identifier: 1c3e103b-90af-39bd-44e4-7bcdaa1a5133
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 130
+- identifier: 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925
+  name: Projects
+  pageRef: /video_galleries/projects
+  weight: 140
+- identifier: dac063bc-0354-8e01-255f-fb1202fe9fa2
+  name: Tools
+  pageRef: /pages/tools
+  weight: 150
