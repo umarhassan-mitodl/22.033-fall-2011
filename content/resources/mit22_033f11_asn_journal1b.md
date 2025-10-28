@@ -4,8 +4,6 @@ description: This resource contains information regarding assignments.
 file: /courses/22-033-nuclear-systems-design-project-fall-2011/bdd7b6b47653e8f5eee6aca39167550b_MIT22_033F11_asn_journal1b.pdf
 file_size: 217425
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

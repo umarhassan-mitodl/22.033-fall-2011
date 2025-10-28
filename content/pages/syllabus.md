@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides an introduction to the course and information
   on meeting times, course level, requirements, overall goals, the design problem,
   course structure, deliverables, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -176,7 +174,7 @@ Deliverables
 
 The deliverables for the course include **two individual progress reports** ("short journal communications"), **three sub-task progress presentations**, and a **final report & presentation**. As you can see from the schedule below, the course is front-loaded. The reason for this is that if the schedule is followed, all the major work for the course will be finished before the Thanksgiving vacation. This will leave you more free to focus on final exams for other courses when you need that time the most.
 
-When writing your short communications and final report, I recommend using a software package called [LyX](http://www.lyx.org) for preparing the written material. It allows you to link figures, tables, sections and references by tag, rather than keeping track of every section, figure and reference number. It will remove most of the grunt work from writing reports, allowing you to save time and focus on your results.
+When writing your short communications and final report, I recommend using a software package called {{% resource_link "32c5762c-a0f4-4b7a-8188-2af8762141f7" "LyX" %}} for preparing the written material. It allows you to link figures, tables, sections and references by tag, rather than keeping track of every section, figure and reference number. It will remove most of the grunt work from writing reports, allowing you to save time and focus on your results.
 
 ### Individual Progress Reports (Short Journal Communications)
 

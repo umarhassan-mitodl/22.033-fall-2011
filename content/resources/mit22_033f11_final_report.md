@@ -4,8 +4,6 @@ description: ''
 file: /courses/22-033-nuclear-systems-design-project-fall-2011/350c31779fc038637893a7d967eff7f1_MIT22_033F11_final_report.pdf
 file_size: 5050619
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

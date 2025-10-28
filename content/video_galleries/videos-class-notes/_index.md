@@ -3,8 +3,6 @@ content_type: page
 description: This section provides selected materials for the classroom lecture and
   recitation sessions, including lecture videos and slides, recitation handouts and
   notes,  and announcements extracted from the class blog.
-hide_download: true
-hide_download_original: null
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
@@ -164,7 +162,7 @@ Leadership skills
 {{< tdopen >}}
 
 
-Resources from the [Gordon-MIT Engineering Leadership Program](http://web.mit.edu/gordonelp/) were used in this class session. For more information about these resources, please [contact](http://web.mit.edu/gordonelp/forms/contact.html) the program.
+Resources from the {{% resource_link "a4455c8e-8d03-4fff-a96c-eb7a74a9a2d4" "Gordon-MIT Engineering Leadership Program" %}} were used in this class session. For more information about these resources, please {{% resource_link "84c88bdb-094d-4671-b048-1a7dcb4802ba" "contact" %}} the program.
 
 {{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Recitation 2 follow up" "#annc_3" %}}
 
@@ -189,7 +187,7 @@ Quality Function Deployment (QFD) example using House of Quality (HoQ)
 
 {{% resource_link 51e85b94-407c-43d7-3480-ea953ea6a91a "Lecture video" %}}
 
-[HoQ spreadsheet template](http://qfdonline.com/templates/) by QFDOnline.com
+{{% resource_link "5f3bba2a-4351-497b-9282-bf2a90daa5f2" "HoQ spreadsheet template" %}} by QFDOnline.com
 
 
 {{< tdclose >}}
@@ -294,7 +292,7 @@ Engineering leadership & leadership styles
 
 Slides ({{% resource_link 922a2520-5176-8870-a059-dee88dcb35d5 "PDF" %}})
 
-Resources from the [Gordon-MIT Engineering Leadership Program](http://web.mit.edu/gordonelp/) were used in this class session. For more information about these resources, please [contact](http://web.mit.edu/gordonelp/forms/contact.html) the program.
+Resources from the {{% resource_link "a4455c8e-8d03-4fff-a96c-eb7a74a9a2d4" "Gordon-MIT Engineering Leadership Program" %}} were used in this class session. For more information about these resources, please {{% resource_link "84c88bdb-094d-4671-b048-1a7dcb4802ba" "contact" %}} the program.
 
 {{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Recitation 4 follow up" "#annc_7" %}}
 

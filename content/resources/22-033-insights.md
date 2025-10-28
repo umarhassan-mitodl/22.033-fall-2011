@@ -4,8 +4,6 @@ description: ''
 file: /courses/22-033-nuclear-systems-design-project-fall-2011/c92e620d34806f6604c9c320e0bbfccd_22-033-insights.png
 file_size: 163016
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

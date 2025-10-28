@@ -4,8 +4,6 @@ description: This resource contains information regarding tools.
 file: /courses/22-033-nuclear-systems-design-project-fall-2011/b5515bef41f14f0270ed5359f861cf1e_MIT22_033F11_tools_lyx_tut.pdf
 file_size: 314780
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

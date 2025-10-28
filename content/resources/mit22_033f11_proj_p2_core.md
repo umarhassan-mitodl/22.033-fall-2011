@@ -5,8 +5,6 @@ description: "This resource contains information regarding 22.033 core group\u20
 file: /courses/22-033-nuclear-systems-design-project-fall-2011/889f9a86620fbee0555c6b58489889f3_MIT22_033F11_proj_p2_core.pdf
 file_size: 1130828
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,8 +3,6 @@ content_type: video_gallery
 description: This section presents student work and presentation videos about the
   design project, with select progress reports, interim presentations, and the final
   presentation and report.
-hide_download: true
-hide_download_original: null
 is_media_gallery: true
 learning_resource_types:
 - Projects
@@ -68,7 +66,7 @@ Final Report ({{% resource_link 350c3177-9fc0-3863-7893-a7d967eff7f1 "PDF - 4.5M
 
 For those who wish to continue bringing your project up to the ANS conference level, step 1 will be correcting the final report. It will form the basis of any smaller reports & abstracts that are produced from the project. If you wish to keep working on the project (at a more relaxed pace, of course), please let me know. I have heard from a couple of you, and would love to see who wants to keep moving forward.
 
-Once we have the final report corrected, I will ask if we can publish it as an [MIT CANES](http://canes.mit.edu/) (Center for Advanced Nuclear Energy Systems) report. After that, I would love to work with you on how to improve the document for external publication and/or presentation."
+Once we have the final report corrected, I will ask if we can publish it as an {{% resource_link "1e93d793-8ace-4bae-a639-779729b1a008" "MIT CANES" %}} (Center for Advanced Nuclear Energy Systems) report. After that, I would love to work with you on how to improve the document for external publication and/or presentation."
 
 Video Gallery
 -------------

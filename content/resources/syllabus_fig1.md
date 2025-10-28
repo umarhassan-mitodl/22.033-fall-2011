@@ -4,8 +4,6 @@ description: ''
 file: /courses/22-033-nuclear-systems-design-project-fall-2011/1ca120b6ce97b3ffa71a34287a4a3ff3_syllabus_fig1.gif
 file_size: 33681
 file_type: image/gif
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
